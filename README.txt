@@ -7,5 +7,5 @@ Run Final_Pre_EDA_Table.ipynb
 Take the csv file created from it (Uncomment if needed) and put it in Data
 Run Eda_Final
 Take the csv file created from it (Uncomment if needed) and put it in Data
-Download the geojson file in drive and put it in Data
+Download the two geojson files in drive and put it in Data
 Now you can run each clustering zip/street files, Enjoy!
